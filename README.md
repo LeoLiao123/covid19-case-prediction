@@ -1,5 +1,6 @@
 # ML2022Hw1 Public Bossline
 This project is Assignment 1 for Machine Learning 2022 at National Taiwan University, focusing on COVID-19 Case Prediction.
+
 Kaggle Competition : [https://www.kaggle.com/competitions/ml2022spring-hw1](https://www.kaggle.com/competitions/ml2022spring-hw1)
 
 ## Method
