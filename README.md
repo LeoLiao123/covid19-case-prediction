@@ -12,6 +12,6 @@ Kaggle Competition : [https://www.kaggle.com/competitions/ml2022spring-hw1](http
 
 ## Result
 ```
-Private: 0.90501
-Public: 0.82548 (#6)
+Private: 0.90501 (strog baseline)
+Public: 0.82548 (boss baseline) (#6)
 ```
